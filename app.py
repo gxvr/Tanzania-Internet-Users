@@ -23,6 +23,8 @@ st.title('Tanzania Internet Users Stats')
 st.markdown(
     'This application visualize internet penetration statistics in Tanzania from 2015 -2019')
 
+st.bar_chart({"data": [1, 5, 2, 6, 2, 1]})
+
 
 # Custom
 # hide_footer_style = """
